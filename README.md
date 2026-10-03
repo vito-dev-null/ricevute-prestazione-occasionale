@@ -6,7 +6,7 @@ Applicazione PHP locale per gestire le anagrafiche di prestatori e committenti, 
 
 Questa è un'applicazione desktop locale: non offre account o autenticazione per accessi remoti. L'app accetta solo indirizzi e nomi host locali e rifiuta le richieste con intestazioni tipiche dei proxy, ma non va comunque installata su hosting pubblico né esposta tramite reverse proxy o tunnel. Usa solo il server locale indicato qui sotto. Ogni utilizzatore conserva i propri dati sul proprio computer; non vengono caricati al creatore dell'applicazione.
 
-Il codice è distribuito secondo i termini della licenza personale inclusa in `LICENSE`: l'utilizzo personale è consentito, mentre modifica e ridistribuzione richiedono un'autorizzazione scritta. La licenza del codice non concede automaticamente diritti sul logo e sugli altri marchi.
+Il codice è distribuito secondo i termini della licenza personale inclusa in `LICENSE`: l'utilizzo personale è consentito, mentre modifica e ridistribuzione richiedono un'autorizzazione scritta. La licenza del codice non concede automaticamente diritti sul logo e sugli altri marchi. Prima di riutilizzare o distribuire il logo, assicurati di avere i relativi diritti.
 
 Prima di pubblicare il progetto, scegli una licenza e verifica di poter distribuire il logo incluso. Il file `.gitignore` esclude database, backup e file d'ambiente locali dal controllo versione.
 
