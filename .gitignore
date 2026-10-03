@@ -1,0 +1,14 @@
+# Local database and backups
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.bak
+*.backup
+
+# Local development and operating-system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
